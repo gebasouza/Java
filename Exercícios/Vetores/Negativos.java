@@ -6,9 +6,6 @@
  */
 
 
-
-package Ex01_Vetores;
-
 import java.util.Locale;
 import java.util.Scanner;
 
