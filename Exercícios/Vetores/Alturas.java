@@ -5,8 +5,6 @@ bem como os nomes dessas pessoas caso houver.
  * 
  */
 
-package Ex02_Vetores;
-
 import java.util.Locale;
 import java.util.Scanner;
 
