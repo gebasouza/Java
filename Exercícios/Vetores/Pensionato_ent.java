@@ -1,4 +1,4 @@
-package Exercicios_vetores;
+
 
 public class Pensionato_ent {
 	private String nome;
