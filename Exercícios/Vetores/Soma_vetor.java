@@ -5,7 +5,7 @@
  * 
  */
 
-package Exercicios_vetores;
+ 
 
 import java.util.Locale;
 import java.util.Scanner;
