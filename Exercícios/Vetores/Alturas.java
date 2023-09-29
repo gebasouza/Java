@@ -14,7 +14,7 @@ public class Alturas {
 
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
-		System.out.print("Quantas pessoas serão digitadas?");
+		System.out.print("Quantas pessoas serão digitadas??");
 		int n = sc.nextInt();
 
 		String[] nomes = new String[n];
