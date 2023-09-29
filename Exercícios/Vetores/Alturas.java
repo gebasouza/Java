@@ -22,7 +22,7 @@ public class Alturas {
 		double[] alturas = new double[n];
 
 		for (int i = 0; i < n; i++) {
-			System.out.println("Dados da " + (i + 1) + "º a pessoa: ");
+			System.out.println("Dados da " + (i + 1) + "º a pessoa:: ");
 			System.out.print("Nome: ");
 			nomes[i] = sc.next();
 
