@@ -58,7 +58,7 @@ public class Alturas {
 			if (idades[i] < 16) {
 				System.out.println(nomes[i]);
 			}
-		}
+		} 
 		sc.close();
 
 		
